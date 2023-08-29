@@ -1,3 +1,3 @@
-# Grocery-Page-TailwindCss
+# Grocery-Page-TailwindCSS
 
-A static page in Tailwind Css
+A static page using Tailwind CSS.
